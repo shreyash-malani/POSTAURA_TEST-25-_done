@@ -52,5 +52,5 @@ It enables scheduling posts, generating captions using AI, analyzing trends, and
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/shreyash-malani/PostAura.git
+https://github.com/shreyash-malani/POSTAURA_TEST-25-_done.git
 cd PostAura
